@@ -11,8 +11,7 @@
 #  Tecnologias utilizadas
 
 
-##Visualg 
-#Portugol
+Visualg e Portugol
 
 
 Beatriz Alves
